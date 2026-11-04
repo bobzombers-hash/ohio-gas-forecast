@@ -1,0 +1,12 @@
+.venv/
+.mplcache/
+__pycache__/
+*.pyc
+logs/
+output/
+_site/
+*.tmp
+data/.run.lock
+data/schedule_state.json
+data/schedule_config.json
+data/task.xml

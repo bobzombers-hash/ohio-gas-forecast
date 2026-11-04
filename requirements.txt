@@ -1,0 +1,4 @@
+numpy>=1.22
+pandas>=1.5
+xlrd>=2.0.1
+matplotlib>=3.5
