@@ -1,6 +1,6 @@
 # Ohio Gas Price Forecast
 
-Live dashboard: **https://bobzombers-hash.github.io/ohio-gas-forecast/** *(placeholder until Pages is enabled)*
+Live dashboard: **https://bobzombers-hash.github.io/ohio-gas-forecast/**
 
 A small Python program that forecasts regular gasoline prices across Ohio 1–8 weeks ahead,
 statewide and for 14 AAA metro areas (Cleveland, Columbus, Cincinnati, Toledo, Akron, Dayton, …).
