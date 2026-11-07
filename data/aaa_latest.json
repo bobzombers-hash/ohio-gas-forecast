@@ -1,485 +1,485 @@
 {
- "asof": "2026-11-06",
+ "asof": "2026-11-07",
  "source": "https://gasprices.aaa.com/?state=OH",
  "state": {
   "current": {
+   "regular": 3.86,
+   "mid": 4.446,
+   "premium": 4.9937,
+   "diesel": 6.3274
+  },
+  "yesterday": {
    "regular": 3.9134,
    "mid": 4.4956,
    "premium": 5.0444,
    "diesel": 6.3567
   },
-  "yesterday": {
-   "regular": 3.9793,
-   "mid": 4.5616,
-   "premium": 5.1017,
-   "diesel": 6.3912
-  },
   "week ago": {
-   "regular": 4.2182,
-   "mid": 4.7914,
-   "premium": 5.3323,
-   "diesel": 6.4483
+   "regular": 4.1743,
+   "mid": 4.7522,
+   "premium": 5.294,
+   "diesel": 6.4469
   },
   "month ago": {
-   "regular": 3.7841,
-   "mid": 4.3572,
-   "premium": 4.9047,
-   "diesel": 6.2364
+   "regular": 3.741,
+   "mid": 4.3161,
+   "premium": 4.8677,
+   "diesel": 6.1809
   },
   "year ago": {
-   "regular": 3.1579,
-   "mid": 3.6903,
-   "premium": 4.1936,
-   "diesel": 3.7157
+   "regular": 3.123,
+   "mid": 3.6637,
+   "premium": 4.1655,
+   "diesel": 3.7674
   }
  },
  "metros": {
   "Akron": {
    "current": {
+    "regular": 3.8644,
+    "mid": 4.4294,
+    "premium": 4.9536,
+    "diesel": 6.3741
+   },
+   "yesterday": {
     "regular": 3.9235,
     "mid": 4.4803,
     "premium": 5.0185,
     "diesel": 6.3957
    },
-   "yesterday": {
-    "regular": 3.9946,
-    "mid": 4.5446,
-    "premium": 5.0814,
-    "diesel": 6.4228
-   },
    "week ago": {
-    "regular": 4.2537,
-    "mid": 4.8192,
-    "premium": 5.3384,
-    "diesel": 6.5222
+    "regular": 4.2164,
+    "mid": 4.7686,
+    "premium": 5.3012,
+    "diesel": 6.5214
    },
    "month ago": {
-    "regular": 3.6539,
-    "mid": 4.2168,
-    "premium": 4.7697,
-    "diesel": 6.2489
+    "regular": 3.6047,
+    "mid": 4.162,
+    "premium": 4.7061,
+    "diesel": 6.1731
    },
    "year ago": {
-    "regular": 3.202,
-    "mid": 3.7127,
-    "premium": 4.2176,
-    "diesel": 3.7189
+    "regular": 3.168,
+    "mid": 3.6917,
+    "premium": 4.1882,
+    "diesel": 3.7586
    }
   },
   "Canton-Massillon": {
    "current": {
+    "regular": 3.944,
+    "mid": 4.4622,
+    "premium": 4.9795,
+    "diesel": 6.3909
+   },
+   "yesterday": {
     "regular": 3.9736,
     "mid": 4.4999,
     "premium": 5.0093,
     "diesel": 6.405
    },
-   "yesterday": {
-    "regular": 4.0611,
-    "mid": 4.5951,
-    "premium": 5.1119,
-    "diesel": 6.4344
-   },
    "week ago": {
-    "regular": 4.2869,
-    "mid": 4.8323,
-    "premium": 5.3573,
-    "diesel": 6.5351
+    "regular": 4.2588,
+    "mid": 4.7967,
+    "premium": 5.3149,
+    "diesel": 6.5234
    },
    "month ago": {
-    "regular": 3.6801,
-    "mid": 4.2313,
-    "premium": 4.7627,
-    "diesel": 6.1215
+    "regular": 3.6664,
+    "mid": 4.2123,
+    "premium": 4.7341,
+    "diesel": 6.1051
    },
    "year ago": {
-    "regular": 3.1625,
-    "mid": 3.7001,
-    "premium": 4.2006,
-    "diesel": 3.7313
+    "regular": 3.1185,
+    "mid": 3.6512,
+    "premium": 4.1454,
+    "diesel": 3.7878
    }
   },
   "Cleveland-Lorain-Elyria": {
    "current": {
+    "regular": 3.904,
+    "mid": 4.5931,
+    "premium": 5.1605,
+    "diesel": 6.4821
+   },
+   "yesterday": {
     "regular": 3.9541,
     "mid": 4.6349,
     "premium": 5.2145,
     "diesel": 6.5064
    },
-   "yesterday": {
-    "regular": 4.0263,
-    "mid": 4.7075,
-    "premium": 5.2654,
-    "diesel": 6.5225
-   },
    "week ago": {
-    "regular": 4.2698,
-    "mid": 4.9031,
-    "premium": 5.4582,
-    "diesel": 6.5701
+    "regular": 4.2336,
+    "mid": 4.8704,
+    "premium": 5.4339,
+    "diesel": 6.5623
    },
    "month ago": {
-    "regular": 3.9319,
-    "mid": 4.5634,
-    "premium": 5.1236,
-    "diesel": 6.384
+    "regular": 3.8792,
+    "mid": 4.5465,
+    "premium": 5.1023,
+    "diesel": 6.3528
    },
    "year ago": {
-    "regular": 3.149,
-    "mid": 3.7092,
-    "premium": 4.2252,
-    "diesel": 3.7442
+    "regular": 3.1327,
+    "mid": 3.696,
+    "premium": 4.2026,
+    "diesel": 3.7821
    }
   },
   "Columbus": {
    "current": {
+    "regular": 3.8861,
+    "mid": 4.4474,
+    "premium": 4.9868,
+    "diesel": 6.4354
+   },
+   "yesterday": {
     "regular": 3.95,
     "mid": 4.5064,
     "premium": 5.0448,
     "diesel": 6.4631
    },
-   "yesterday": {
-    "regular": 4.0132,
-    "mid": 4.566,
-    "premium": 5.103,
-    "diesel": 6.4982
-   },
    "week ago": {
-    "regular": 4.2676,
-    "mid": 4.808,
-    "premium": 5.3518,
-    "diesel": 6.5581
+    "regular": 4.215,
+    "mid": 4.7668,
+    "premium": 5.3015,
+    "diesel": 6.539
    },
    "month ago": {
-    "regular": 3.778,
-    "mid": 4.3292,
-    "premium": 4.8893,
-    "diesel": 6.3265
+    "regular": 3.7321,
+    "mid": 4.2898,
+    "premium": 4.8499,
+    "diesel": 6.2904
    },
    "year ago": {
-    "regular": 3.2162,
-    "mid": 3.7362,
-    "premium": 4.2362,
-    "diesel": 3.7523
+    "regular": 3.1692,
+    "mid": 3.6981,
+    "premium": 4.1953,
+    "diesel": 3.8072
    }
   },
   "Dayton": {
    "current": {
+    "regular": 3.7914,
+    "mid": 4.3589,
+    "premium": 4.899,
+    "diesel": 6.2455
+   },
+   "yesterday": {
     "regular": 3.846,
     "mid": 4.4141,
     "premium": 4.9491,
     "diesel": 6.2848
    },
-   "yesterday": {
-    "regular": 3.9032,
-    "mid": 4.4783,
-    "premium": 5.0112,
-    "diesel": 6.369
-   },
    "week ago": {
-    "regular": 4.1578,
-    "mid": 4.725,
-    "premium": 5.2568,
-    "diesel": 6.4682
+    "regular": 4.1123,
+    "mid": 4.6838,
+    "premium": 5.2227,
+    "diesel": 6.4508
    },
    "month ago": {
-    "regular": 3.6752,
-    "mid": 4.2461,
-    "premium": 4.7876,
-    "diesel": 6.1771
+    "regular": 3.6335,
+    "mid": 4.185,
+    "premium": 4.7413,
+    "diesel": 6.1152
    },
    "year ago": {
-    "regular": 3.1355,
-    "mid": 3.6634,
-    "premium": 4.1754,
-    "diesel": 3.6907
+    "regular": 3.0944,
+    "mid": 3.64,
+    "premium": 4.1419,
+    "diesel": 3.7772
    }
   },
   "Toledo": {
    "current": {
+    "regular": 3.8068,
+    "mid": 4.3762,
+    "premium": 4.9019,
+    "diesel": 6.2768
+   },
+   "yesterday": {
     "regular": 3.8645,
     "mid": 4.4183,
     "premium": 4.9583,
     "diesel": 6.295
    },
-   "yesterday": {
-    "regular": 3.927,
-    "mid": 4.4774,
-    "premium": 5.0011,
-    "diesel": 6.3305
-   },
    "week ago": {
-    "regular": 4.1711,
-    "mid": 4.7204,
-    "premium": 5.2493,
-    "diesel": 6.3785
+    "regular": 4.1352,
+    "mid": 4.6915,
+    "premium": 5.2282,
+    "diesel": 6.401
    },
    "month ago": {
-    "regular": 3.6909,
-    "mid": 4.2988,
-    "premium": 4.8136,
-    "diesel": 6.1082
+    "regular": 3.6511,
+    "mid": 4.2447,
+    "premium": 4.7636,
+    "diesel": 6.0437
    },
    "year ago": {
-    "regular": 3.182,
-    "mid": 3.6805,
-    "premium": 4.1861,
-    "diesel": 3.6622
+    "regular": 3.1444,
+    "mid": 3.6686,
+    "premium": 4.1632,
+    "diesel": 3.7228
    }
   },
   "Youngstown-Warren": {
    "current": {
+    "regular": 3.8857,
+    "mid": 4.5372,
+    "premium": 5.0859,
+    "diesel": 6.2832
+   },
+   "yesterday": {
     "regular": 3.9245,
     "mid": 4.5771,
     "premium": 5.1314,
     "diesel": 6.3179
    },
-   "yesterday": {
-    "regular": 3.9745,
-    "mid": 4.6233,
-    "premium": 5.1833,
-    "diesel": 6.3453
-   },
    "week ago": {
-    "regular": 4.1515,
-    "mid": 4.7804,
-    "premium": 5.3198,
-    "diesel": 6.3395
+    "regular": 4.1208,
+    "mid": 4.7437,
+    "premium": 5.2882,
+    "diesel": 6.3606
    },
    "month ago": {
-    "regular": 3.7312,
-    "mid": 4.3716,
-    "premium": 4.9508,
-    "diesel": 6.2541
+    "regular": 3.6971,
+    "mid": 4.3068,
+    "premium": 4.8938,
+    "diesel": 6.2087
    },
    "year ago": {
-    "regular": 3.0717,
-    "mid": 3.6393,
-    "premium": 4.1269,
-    "diesel": 3.7468
+    "regular": 3.0519,
+    "mid": 3.6111,
+    "premium": 4.1139,
+    "diesel": 3.781
    }
   },
   "Cincinnati (OH only)": {
    "current": {
+    "regular": 3.8407,
+    "mid": 4.3882,
+    "premium": 4.947,
+    "diesel": 6.257
+   },
+   "yesterday": {
     "regular": 3.897,
     "mid": 4.4477,
     "premium": 5.0018,
     "diesel": 6.2911
    },
-   "yesterday": {
-    "regular": 3.969,
-    "mid": 4.5247,
-    "premium": 5.065,
-    "diesel": 6.3255
-   },
    "week ago": {
-    "regular": 4.2067,
-    "mid": 4.7637,
-    "premium": 5.3114,
-    "diesel": 6.4278
+    "regular": 4.1508,
+    "mid": 4.7032,
+    "premium": 5.2528,
+    "diesel": 6.4195
    },
    "month ago": {
-    "regular": 3.742,
-    "mid": 4.2862,
-    "premium": 4.8198,
-    "diesel": 6.221
+    "regular": 3.6996,
+    "mid": 4.2337,
+    "premium": 4.7818,
+    "diesel": 6.1764
    },
    "year ago": {
-    "regular": 3.1627,
-    "mid": 3.6873,
-    "premium": 4.2005,
-    "diesel": 3.6892
+    "regular": 3.1168,
+    "mid": 3.6525,
+    "premium": 4.177,
+    "diesel": 3.7583
    }
   },
   "Belmont County": {
    "current": {
+    "regular": 3.8407,
+    "mid": 4.4679,
+    "premium": 4.983,
+    "diesel": 6.3264
+   },
+   "yesterday": {
     "regular": 3.8942,
     "mid": 4.4846,
     "premium": 5.021,
     "diesel": 6.3428
    },
-   "yesterday": {
-    "regular": 3.9475,
-    "mid": 4.5569,
-    "premium": 5.1022,
-    "diesel": 6.3409
-   },
    "week ago": {
-    "regular": 4.158,
-    "mid": 4.6728,
-    "premium": 5.2402,
-    "diesel": 6.3395
+    "regular": 4.1035,
+    "mid": 4.6685,
+    "premium": 5.1681,
+    "diesel": 6.3375
    },
    "month ago": {
-    "regular": 3.8295,
-    "mid": 4.5523,
-    "premium": 5.0804,
-    "diesel": 6.264
+    "regular": 3.7908,
+    "mid": 4.5373,
+    "premium": 5.1063,
+    "diesel": 6.2217
    },
    "year ago": {
-    "regular": 3.0723,
-    "mid": 3.6395,
-    "premium": 4.2174,
-    "diesel": 3.8122
+    "regular": 3.049,
+    "mid": 3.5857,
+    "premium": 4.1594,
+    "diesel": 3.7944
    }
   },
   "Lawerence County": {
    "current": {
+    "regular": 3.8831,
+    "mid": 4.379,
+    "premium": 4.8815,
+    "diesel": 6.1037
+   },
+   "yesterday": {
     "regular": 3.9031,
     "mid": 4.367,
     "premium": 4.9059,
     "diesel": 6.0803
    },
-   "yesterday": {
-    "regular": 4.0258,
-    "mid": 4.479,
-    "premium": 4.9926,
-    "diesel": 6.0647
-   },
    "week ago": {
-    "regular": 4.1826,
-    "mid": 4.7226,
-    "premium": 5.1963,
-    "diesel": 6.189
+    "regular": 4.1761,
+    "mid": 4.687,
+    "premium": 5.1803,
+    "diesel": 6.1778
    },
    "month ago": {
-    "regular": 3.7557,
+    "regular": 3.7863,
     "mid": 4.2882,
-    "premium": 4.8337,
-    "diesel": 6.4623
+    "premium": 4.8283,
+    "diesel": 6.439
    },
    "year ago": {
-    "regular": 3.222,
-    "mid": 3.719,
-    "premium": 4.1744,
-    "diesel": 3.659
+    "regular": 3.1785,
+    "mid": 3.689,
+    "premium": 4.1565,
+    "diesel": 3.8963
    }
   },
   "Lima": {
    "current": {
+    "regular": 3.6028,
+    "mid": 4.2542,
+    "premium": 4.7869,
+    "diesel": 6.1277
+   },
+   "yesterday": {
     "regular": 3.6432,
     "mid": 4.2622,
     "premium": 4.8374,
     "diesel": 6.1158
    },
-   "yesterday": {
-    "regular": 3.7079,
-    "mid": 4.3956,
-    "premium": 4.9648,
-    "diesel": 6.1677
-   },
    "week ago": {
-    "regular": 3.9914,
-    "mid": 4.6526,
-    "premium": 5.2249,
-    "diesel": 6.2887
+    "regular": 3.9352,
+    "mid": 4.6075,
+    "premium": 5.1297,
+    "diesel": 6.2631
    },
    "month ago": {
-    "regular": 3.7137,
-    "mid": 4.4271,
-    "premium": 4.9607,
-    "diesel": 6.1935
+    "regular": 3.6988,
+    "mid": 4.4158,
+    "premium": 4.9213,
+    "diesel": 6.0993
    },
    "year ago": {
-    "regular": 3.1979,
-    "mid": 3.7477,
-    "premium": 4.2806,
-    "diesel": 3.7103
+    "regular": 3.1454,
+    "mid": 3.6869,
+    "premium": 4.2278,
+    "diesel": 3.8051
    }
   },
   "Mansfield": {
    "current": {
+    "regular": 3.9003,
+    "mid": 4.4664,
+    "premium": 5.0261,
+    "diesel": 6.3074
+   },
+   "yesterday": {
     "regular": 3.9442,
     "mid": 4.4739,
     "premium": 5.0136,
     "diesel": 6.3245
    },
-   "yesterday": {
-    "regular": 3.9846,
-    "mid": 4.4987,
-    "premium": 5.0593,
-    "diesel": 6.339
-   },
    "week ago": {
-    "regular": 4.2445,
-    "mid": 4.8309,
-    "premium": 5.3261,
-    "diesel": 6.3634
+    "regular": 4.1985,
+    "mid": 4.7801,
+    "premium": 5.2968,
+    "diesel": 6.374
    },
    "month ago": {
-    "regular": 3.7194,
-    "mid": 4.3555,
-    "premium": 4.8484,
-    "diesel": 6.2214
+    "regular": 3.6726,
+    "mid": 4.3412,
+    "premium": 4.8079,
+    "diesel": 6.0578
    },
    "year ago": {
-    "regular": 3.1852,
-    "mid": 3.702,
-    "premium": 4.2217,
-    "diesel": 3.7812
+    "regular": 3.1536,
+    "mid": 3.6721,
+    "premium": 4.175,
+    "diesel": 3.8484
    }
   },
   "Springfield": {
    "current": {
+    "regular": 3.8567,
+    "mid": 4.439,
+    "premium": 4.9643,
+    "diesel": 6.1919
+   },
+   "yesterday": {
     "regular": 3.8988,
     "mid": 4.4662,
     "premium": 4.9996,
     "diesel": 6.2422
    },
-   "yesterday": {
-    "regular": 3.979,
-    "mid": 4.5417,
-    "premium": 5.0493,
-    "diesel": 6.3066
-   },
    "week ago": {
-    "regular": 4.2182,
-    "mid": 4.77,
-    "premium": 5.2749,
-    "diesel": 6.3682
+    "regular": 4.1766,
+    "mid": 4.724,
+    "premium": 5.2377,
+    "diesel": 6.3574
    },
    "month ago": {
-    "regular": 3.7757,
-    "mid": 4.3216,
-    "premium": 4.8481,
-    "diesel": 6.2085
+    "regular": 3.7534,
+    "mid": 4.2621,
+    "premium": 4.7964,
+    "diesel": 6.2061
    },
    "year ago": {
-    "regular": 3.2061,
-    "mid": 3.7178,
-    "premium": 4.1739,
-    "diesel": 3.669
+    "regular": 3.1562,
+    "mid": 3.6872,
+    "premium": 4.1569,
+    "diesel": 3.7866
    }
   },
   "Steubenville-Weirton (OH only)": {
    "current": {
+    "regular": 3.9846,
+    "mid": 4.4528,
+    "premium": 5.0509,
+    "diesel": 6.3723
+   },
+   "yesterday": {
     "regular": 4.0414,
     "mid": 4.539,
     "premium": 5.0952,
     "diesel": 6.4096
    },
-   "yesterday": {
-    "regular": 4.1169,
-    "mid": 4.632,
-    "premium": 5.2317,
-    "diesel": 6.4403
-   },
    "week ago": {
-    "regular": 4.2981,
-    "mid": 4.889,
-    "premium": 5.4223,
-    "diesel": 6.4507
+    "regular": 4.2614,
+    "mid": 4.8284,
+    "premium": 5.409,
+    "diesel": 6.4949
    },
    "month ago": {
-    "regular": 4.0075,
-    "mid": 4.6678,
-    "premium": 5.1028,
-    "diesel": 6.2308
+    "regular": 3.9769,
+    "mid": 4.5723,
+    "premium": 5.0457,
+    "diesel": 6.2332
    },
    "year ago": {
-    "regular": 3.1664,
-    "mid": 3.6578,
-    "premium": 4.1477,
-    "diesel": 3.756
+    "regular": 3.1235,
+    "mid": 3.6272,
+    "premium": 4.1163,
+    "diesel": 3.827
    }
   }
  }
